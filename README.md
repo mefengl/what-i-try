@@ -16,3 +16,5 @@ https://karabiner-elements.pqrs.org/docs/getting-started/installation/ , try kar
 12
 
 https://www.serverless.com/framework/docs/guides/compose#service-dependencies-and-variables , try to pass value by param in serverless-compose 
+
+https://www.serverless.com/framework/docs/providers/aws/guide/variables#reference-properties-in-serverlessyml , try to use `${self:custom.xxx}` in `serverless.yml`
