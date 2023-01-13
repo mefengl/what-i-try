@@ -18,3 +18,15 @@ https://karabiner-elements.pqrs.org/docs/getting-started/installation/ , try kar
 https://www.serverless.com/framework/docs/guides/compose#service-dependencies-and-variables , try to pass value by param in serverless-compose 
 
 https://www.serverless.com/framework/docs/providers/aws/guide/variables#reference-properties-in-serverlessyml , try to use `${self:custom.xxx}` in `serverless.yml`
+
+13
+
+https://github.com/tmux-plugins/list , tmux with tpm , make tmux great again
+
+https://github.com/miozus/CapslockMagic , `3` and `;` as modifier key is very interesting, but it's too heavy for me, maybe custom one by myself
+
+14
+
+https://1paragraph.app/ , almost no css, means it is a good reader
+
+https://readwise.io/ , maybe it's good and useless like other good reader
