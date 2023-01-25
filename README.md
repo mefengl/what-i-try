@@ -30,3 +30,7 @@ https://github.com/miozus/CapslockMagic , `3` and `;` as modifier key is very in
 https://1paragraph.app/ , almost no css, means it is a good reader
 
 https://readwise.io/ , maybe it's good and useless like other good reader
+
+25
+
+https://beta.elevenlabs.io/ , production grade sound cloning, tried Elon's voice, not bad
