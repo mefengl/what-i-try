@@ -34,3 +34,9 @@ https://readwise.io/ , maybe it's good and useless like other good reader
 25
 
 https://beta.elevenlabs.io/ , production grade sound cloning, tried Elon's voice, not bad
+
+## 2023-02
+
+03
+
+https://code.visualstudio.com/updates/v1_75#_redesigned-inline-suggestions-toolbar , switch suggestion easier
