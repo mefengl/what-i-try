@@ -40,3 +40,7 @@ https://beta.elevenlabs.io/ , production grade sound cloning, tried Elon's voice
 03
 
 https://code.visualstudio.com/updates/v1_75#_redesigned-inline-suggestions-toolbar , switch suggestion easier
+
+04
+
+https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew , replace some of brew init scripts to brewfile
