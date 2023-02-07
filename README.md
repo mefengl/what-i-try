@@ -44,3 +44,7 @@ https://code.visualstudio.com/updates/v1_75#_redesigned-inline-suggestions-toolb
 04
 
 https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew , replace some of brew init scripts to brewfile
+
+07
+
+https://docs.github.com/en/issues/tracking-your-work-with-issues/about-tasklists , beta tasklist feature, looks nice
