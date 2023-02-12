@@ -48,3 +48,13 @@ https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew , replace some o
 07
 
 https://docs.github.com/en/issues/tracking-your-work-with-issues/about-tasklists , beta tasklist feature, looks nice
+
+## 2023-03
+
+12
+
+https://1password.com/ , switch to 1password, seems better than bitwarden
+
+https://typer.tiangolo.com/#the-absolute-minimum , tried typer, it's a good tool to build cli
+
+https://typer.tiangolo.com/tutorial/package/ , tried poetry, it's a good tool to manage python project
