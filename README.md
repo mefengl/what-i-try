@@ -58,3 +58,9 @@ https://1password.com/ , switch to 1password, seems better than bitwarden
 https://typer.tiangolo.com/#the-absolute-minimum , tried typer, it's a good tool to build cli
 
 https://typer.tiangolo.com/tutorial/package/ , tried poetry, it's a good tool to manage python project
+
+13
+
+https://huggingface.co/xlm-roberta-base , tried HuggingFace, it's a good tool to manage ML model
+
+https://www.philschmid.de/multilingual-serverless-xlm-roberta-with-huggingface , great tutorial to combine HuggingFace, docker and serverless
