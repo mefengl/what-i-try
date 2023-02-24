@@ -64,3 +64,9 @@ https://typer.tiangolo.com/tutorial/package/ , tried poetry, it's a good tool to
 https://huggingface.co/xlm-roberta-base , tried HuggingFace, it's a good tool to manage ML model
 
 https://www.philschmid.de/multilingual-serverless-xlm-roberta-with-huggingface , great tutorial to combine HuggingFace, docker and serverless
+
+24
+
+https://github.com/robvanderleek/create-issue-branch , automate create issue branch
+
+https://github.com/philschatz/project-bot , Workflow as Code, but this branch last update in 2019, too old so I give up
